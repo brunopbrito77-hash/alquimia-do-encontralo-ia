@@ -40,6 +40,11 @@ A proposta é provocar reflexão — não confusão.
 ---
 
 ## 📸 Narrativa Visual
+![A Alquimia do Encontro – Cena 1](1766974734613.jpg)
+
+![A Alquimia do Encontro – Cena 2](1766974909558.jpg)
+
+![Quando o Oceano se Torna Nós](1766975447107.jpg)
 
 As imagens a seguir fazem parte de uma narrativa visual contínua.  
 Elas devem ser observadas como um conjunto, não como registros isolados.

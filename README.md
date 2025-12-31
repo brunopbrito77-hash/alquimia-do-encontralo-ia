@@ -37,6 +37,10 @@ Todo o conteúdo está devidamente identificado como mídia gerada por Inteligê
 
 A proposta é provocar reflexão — não confusão.
 
+
+As imagens a seguir fazem parte de uma narrativa visual contínua.  
+Elas devem ser observadas como um conjunto, não como registros isolados.
+
 ---
 
 ## 📸 Narrativa Visual

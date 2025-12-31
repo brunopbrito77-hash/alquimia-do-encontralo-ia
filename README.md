@@ -49,6 +49,27 @@ A proposta é provocar reflexão — não confusão.
 As imagens a seguir fazem parte de uma narrativa visual contínua.  
 Elas devem ser observadas como um conjunto, não como registros isolados.
 
+
+
+## 📊 Resultados
+
+Este projeto foi:
+- ✅ Aceito como trabalho de conclusão no bootcamp Nexa + AWS
+- ✅ Publicado no TikTok com 6.585 visualizações orgânicas
+- ✅ Gerou 492 curtidas e 50 novos seguidores
+- ✅ Alcançou audiência em 125 países
+- ✅ Reconhecido pelo TikTok (Top 5% criadores / Criador Prime)
+
+### Reflexão sobre os resultados
+
+O engajamento demonstra que quando IA é usada com transparência e 
+intenção artística genuína, as pessoas respondem à verdade emocional, 
+não à perfeição técnica. 
+
+Vários comentários mencionaram: "vocês se parecem muito", "são irmãos?", 
+mostrando que a IA capturou a essência da conexão real, 
+não apenas aparência física.
+
 ---
 
 ## 💭 Reflexão Final
